@@ -1,7 +1,8 @@
 [
     {
-        "title": "something",
-        "description": "something"
+        "small": "Маленькій бункер",
+        "medium": "Середній бункер ",
+        "big": "Великий і просторний бункер "
     }
 
 ]
